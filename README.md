@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Torstein
 - 👀 I’m interested in contributing to Open Source
-- 🌱 I’m currently learning C++
 
 <!---
 Trind20/Trind20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
