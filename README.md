@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Torstein
-- 👀 I’m interested in contributing to Open Source
+- 👀 I’m interested in contributing to Open Source and coding stuff
 -  🌱 Currently learning JavaScript, HTML, CSS, C#
 
 -  Languages
