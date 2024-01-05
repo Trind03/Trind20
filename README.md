@@ -4,7 +4,7 @@
 
 -  Languages
 -  ![ISO_C++_Logo](https://github.com/Trind20/Trind20/assets/141224356/cbf56189-e4c7-4536-9870-435cc429c75d)
--  ![C# img](https://github.com/Trind20/Trind20/assets/141224356/1a8f8b88-ab72-4b1b-ab9e-16416565874b)
+![C_img_1_40x45](https://github.com/Trind20/Trind20/assets/141224356/535c4f0f-f037-46ce-8d97-919f800cc1a8)
 
 
 
